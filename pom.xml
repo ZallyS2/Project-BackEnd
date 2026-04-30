@@ -17,7 +17,7 @@
 	<properties>
 		<java.version>12</java.version>
 		<squiggly.version>1.3.18</squiggly.version>
-		<jasperreports.version>6.20.5</jasperreports.version>
+		<jasperreports.version>7.0.4</jasperreports.version>
 		<aws-java-sdk-s3.version>1.12.503</aws-java-sdk-s3.version>
 	</properties>
 	<dependencies>
